@@ -18,14 +18,14 @@ Welcome to my Data Science Portfolio! This repository serves as a collection of 
 
 ### [Time Series Regression: Stock Market Predictor](https://github.com/tommf00/Data-Science-Portfolio/tree/main/Stock%20Market%20Predictor)
 
-- **Description:** This Stock Market Regressor project, employing Random Forests. It focuses on the prediction of the S&P 500 index, a key indicator of the financial market, using the powerful Random Forest algorithm. The code is meticulously crafted to showcase the complete regression workflow, from data collection and preprocessing to model training and evaluation. It demonstrates the capabilities of Random Forests in handling complex financial data, making it a valuable resource for those interested in quantitative finance, algorithmic trading, and machine learning in the context of stock market analysis. This project serves as both a practical reference for financial analysts and a learning tool for enthusiasts looking to harness the potential of machine learning in the realm of stock market forecasting.
+- **Description:** This Stock Market Regressor project, employs Random Forests. It focuses on the prediction of the S&P 500 index, a key indicator of the financial market, using the powerful Random Forest algorithm. The code is meticulously crafted to showcase the complete regression workflow, from data collection and preprocessing to model training and evaluation. It demonstrates the capabilities of Random Forests in handling complex financial data, making it a valuable resource for those interested in quantitative finance, algorithmic trading, and machine learning in the context of stock market analysis. This project serves as both a practical reference for financial analysts and a learning tool for enthusiasts looking to harness the potential of machine learning in the realm of stock market forecasting.
 - **Skills/Tools Used:** Yfinance, Pandas, Numpy, Scikit-Learn
 - **Highlights:** Highlight the most significant outcomes or insights from this project.
 
 ### [Neural Networks: Perceptron](https://github.com/tommf00/Data-Science-Portfolio/tree/main/Perceptron)
 
-- **Description:** This Perceptron code project, meticulously crafted from scratch. It showcases a concise and clear implementation of a single-layer neural network, the Perceptron, which is adept at binary classification tasks. The code embodies the essential concepts of activation functions, weight adjustments, bias, and iterative training. This project is a valuable resource for those seeking to grasp the foundations of neural networks and machine learning.
-- **Skills/Tools Used:** List the technologies, tools, and libraries used in this project.
+- **Description:** This Perceptron code project, is meticulously crafted from scratch. It showcases a concise and clear implementation of a single-layer neural network, the Perceptron, which is adept at binary classification tasks. The code embodies the essential concepts of activation functions, weight adjustments, bias, and iterative training. This project is a valuable resource for those seeking to grasp the foundations of neural networks and machine learning.
+- **Skills/Tools Used:** Numpy, Pandas, MatplotLib, math
 - **Highlights:** Highlight the most significant outcomes or insights from this project.
 
 ## About Me
